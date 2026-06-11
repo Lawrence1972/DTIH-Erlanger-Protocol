@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20635281.svg)](https://doi.org/10.5281/zenodo.20635281)
 # DTIH — Erlanger Protocol v0.3
 ### Drug-Induced Liver Injury Prediction via Mechanistically-Inspired Proxy Score (MIPS)
 
